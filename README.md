@@ -18,7 +18,7 @@
 
 ##
 
-![Snake gif](https://github.com/ErosNetto/ErosNetto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ErosNetto/ErosNetto/blob/output/github-contribution-grid-snake.gif)
 
 ##
 
