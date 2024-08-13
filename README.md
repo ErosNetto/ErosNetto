@@ -6,7 +6,7 @@
 
 - Desenvolvedor Web
 - Técnico em Informática
-- Estudante de Engenharia de Software
+- Estudante de Engenharia de Software (2/8)
 
 </div>
 
