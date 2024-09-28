@@ -30,9 +30,6 @@
 <!--   <img align="center" height="40" width="50" alt="Eros-Csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /> -->
   <img align="center" height="40" width="50"  alt="Eros-Git"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="40" width="50"  alt="Eros-GitHub"src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" />
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-  
 </div>
 
 ##
