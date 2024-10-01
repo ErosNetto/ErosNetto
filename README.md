@@ -6,9 +6,11 @@
 
 <div align="left">
 
-- 💻 Desenvolvedor Web
-- 🛠️ Técnico em Informática
-- 🎓 Estudante de Engenharia de Software (2º semestre)
+#### 💻 Desenvolvedor Web
+
+#### 🛠️ Técnico em Informática
+
+#### 🎓 Estudante de Engenharia de Software (2º semestre)
 
 </div>
 
