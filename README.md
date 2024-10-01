@@ -24,9 +24,10 @@
 
 ##
 
-<div align="center">
 
 ### 🔧 Tecnologias e Ferramentas:
+
+<div align="center">
 
 <div style="display: inline_block">
   <img align="center" height="40" width="50" alt="Eros-JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
