@@ -1,16 +1,24 @@
 <div align="center">
 
-# Olá! Eu sou o Eros Netto Antunes 👋
+# Hello! I'm Eros Netto Antunes 👋
+
+<!-- # Olá! Eu sou o Eros Netto Antunes 👋 -->
 
 </div>
 
 <div align="left">
 
-#### 💻 Desenvolvedor Web
+<!-- #### 💻 Web Developer
 
 #### 🛠️ Técnico em Informática
 
-#### 🎓 Estudante de Engenharia de Software (2º semestre)
+#### 🎓 Estudante de Engenharia de Software (2º semestre) -->
+
+#### 💻 Web Developer
+
+#### 🛠️ IT Technician
+
+#### 🎓 Software Engineering Student (2nd semester)
 
 </div>
 
@@ -26,7 +34,9 @@
 
 ##
 
-### 🔧 Tecnologias e Ferramentas:
+<!-- ### 🔧 Tecnologias e Ferramentas: -->
+
+### 🔧 Technologies and Tools:
 
 <div align="center">
 
@@ -44,7 +54,6 @@
   <img align="center" height="40" width="50" alt="Eros-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="40" width="50" alt="Eros-Googlecloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <!-- <img align="center" height="40" width="50" alt="Eros-GitHub" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/github/github-original.svg" /> -->
-  <!-- <img align="center" height="40" width="50" alt="Eros-GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" />     -->
   <img align="center" height="40" width="50" alt="Eros-VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" height="40" width="50" alt="Eros-Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" />
   <img align="center" height="40" width="50" alt="Eros-Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
@@ -67,7 +76,9 @@
 
 ##
 
-### 🌍 Onde me encontrar:
+<!-- ### 🌍 Onde me encontrar: -->
+
+### 🌍 Where to find me:
 
 <div align="center" style="display: inline_block">
   
