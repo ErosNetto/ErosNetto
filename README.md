@@ -27,6 +27,8 @@
 
 ### 🔧 Tecnologias e Ferramentas:
 
+##
+
 <div align="center">
 
 <div style="display: inline_block">
