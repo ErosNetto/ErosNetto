@@ -18,7 +18,7 @@
 
 #### 🛠️ IT Technician
 
-#### 🎓 Software Engineering Student (2nd semester)
+#### 🎓 Software Engineering Student (3nd semester)
 
 </div>
 
